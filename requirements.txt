@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+tldextract
+requests
+
+# Old LangChain line compatible with langchain-groq 0.1.3
+langchain
+langchain-core
+langchain-community
+langchain-groq
+groq
+
+jinja2
+httpx
