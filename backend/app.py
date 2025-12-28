@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 import tldextract
 
 from langchain_groq import ChatGroq
-from langchain.schema import SystemMessage, HumanMessage
+from langchain_core.messages import SystemMessage, HumanMessage
 from urllib.parse import urlparse, parse_qs
 
 

@@ -2,7 +2,7 @@ fastapi
 uvicorn
 pydantic
 python-dotenv
-tldextract
+tldextract==5.1.2
 requests
 
 # Old LangChain line compatible with langchain-groq 0.1.3
